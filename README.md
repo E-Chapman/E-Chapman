@@ -28,7 +28,7 @@
 
 ##
 <div id="stats" align="center"><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=e-chapman&show_icons=true&locale=en" alt="e-chapman"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=e-chapman&show_icons=true&theme=jolly&locale=en" alt="e-chapman"/>
 </div>
 
 
