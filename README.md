@@ -1,12 +1,15 @@
 <h1 align="center">Hello, I'm Elizabeth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1><br>
 
 
-<p align="center">I recently completed a Full Stack Developer bootcamp at Le Wagon London and I'm excited to switch careers and move into Tech 👩‍💻🎉 I'm a relentless and creative problem solver and I'd love to join a tech company with real purpose for good 💫</p>
+<p align="center">I recently completed a Full Stack Developer bootcamp and I'm excited to switch careers 👩‍💻🎉</p>
+<p align="center">I'm a relentless and creative problem solver and I'd love to join a tech company with real purpose for good 💫</p>
 
-<p align="center">:sparkles: I’m currently learning Javascript and React</p>
-<p align="center">:zap: I’m looking to collaborate on as much as I can!</p>
-<p align="center">:crescent_moon: Pronouns: She / Her</p>
-<p align="center">:sunny: Fun fact: I'm fluent in Spanish</p>
+*<p align="center">:star2: I graduated from Le Wagon London in October 2022</p>*
+*<p align="center">:sparkles: I’m currently learning Javascript and React</p>*
+*<p align="center">:zap: I’m looking to collaborate on as much as I can!</p>*
+*<p align="center">:crescent_moon: Pronouns: She / Her</p>*
+*<p align="center">:key: Ask me about my journey into Tech</p>*
+*<p align="center">:sunny: Fun fact: I'm fluent in Spanish</p>*
 <p align="center">:bell: Connect with me on <a href="https://www.linkedin.com/in/elizabeth-may-chapman/"target="_blank">LinkedIn</a></p>
 
 ##
