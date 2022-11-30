@@ -14,7 +14,7 @@
 
 ##
 
-<h3 align="center">Languages & Technologies</h3>
+<h3 align="center">Technologies & Tools</h3>
 <p align="center"><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
