@@ -29,9 +29,5 @@
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"> 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></p>
 
-##
-<div id="stats" align="center"><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=e-chapman&show_icons=true&theme=jolly&locale=en" alt="e-chapman"/>
-</div>
 
 
