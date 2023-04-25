@@ -5,7 +5,7 @@
 <p align="center">I'm a relentless and creative problem solver and I'd love to join a tech company with real purpose for good 💫</p>
 
 *<p align="center">:star2: I graduated from Le Wagon London in October 2022</p>*
-*<p align="center">:sparkles: I’m currently learning Javascript and React</p>*
+*<p align="center">:sparkles: I’m currently learning React</p>*
 *<p align="center">:zap: I’m looking to collaborate on as much as I can!</p>*
 *<p align="center">:crescent_moon: Pronouns: She / Her</p>*
 *<p align="center">:key: Ask me about my journey into Tech</p>*
