@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm Elizabeth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1><br>
 
-
-<p align="center">I recently completed a Full Stack Developer bootcamp and I'm excited to switch careers 👩‍💻🎉</p>
-<p align="center">I'm a relentless and creative problem solver and I'd love to join a tech company with real purpose for good 💫</p>
+<p align="center">:dizzy: I'm an Associate Software Engineer</p>
 
 *<p align="center">:star2: I graduated from Le Wagon London in October 2022</p>*
 *<p align="center">:sparkles: I’m currently learning React</p>*
