@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Elizabeth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1><br>
 
-<p align="center">:dizzy: I'm a Junior Software Engineer</p>
+<p align="center">:dizzy: I'm a Software Engineer</p>
 
 *<p align="center">:star2: I graduated from Le Wagon London in October 2022</p>*
 *<p align="center">:crescent_moon: Pronouns: She / Her</p>*
