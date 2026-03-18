@@ -5,7 +5,6 @@
 *<p align="center">:crescent_moon: Pronouns: She / Her</p>*
 *<p align="center">:key: Ask me about my journey into Tech</p>*
 *<p align="center">:sunny: Fun fact: I'm fluent in Spanish</p>*
-<p align="center">:bell: Connect with me on <a href="https://www.linkedin.com/in/elizabeth-may-chapman/"target="_blank">LinkedIn</a></p>
 
 ##
 
@@ -23,7 +22,6 @@
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg">
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg">   
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></p>
